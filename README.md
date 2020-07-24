@@ -24,9 +24,9 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
 
 2. Inside my created repository, I created a directory for the Javascript challenge. Used the folder names to correspond to the challenges: **UFO-level-1** and **UFO-level-2**.
 
-4. Add your **html** files to this folder as well as your static folder containing your javascript. This will be the main script to run for analysis.
+4. Added my **html** files to this folder as well as my static folder containing your javascript. This will be the main script to run for analysis.
 
-5. Push the above changes to GitHub or GitLab.
+5. Pushed the above changes to GitHub.
 
 ### UFO Level 1: Automatic Table and Date Search (Required)
 
