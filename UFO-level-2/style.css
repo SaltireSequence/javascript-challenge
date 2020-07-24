@@ -1,0 +1,23 @@
+.table-panel {
+    margin-top: 40px;
+}
+
+.jumbotron {
+    background-image: url("static/images/matrix.jpg");
+    color: #FFFFFF;
+    font-family: Courier, Courier, monospace;
+    margin-bottom: 0px;
+}
+#clear-div {
+    padding-top: 38px;
+    display: flex;
+    justify-content: center;
+}
+#pagination-div {
+    display: flex;
+    justify-content: center;
+}
+#headerButton {
+    background-color: #FFFFFF;
+    color: black;
+}
