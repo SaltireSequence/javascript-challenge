@@ -38,6 +38,8 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
 
 * Used a date form in my HTML document and wrote JavaScript code that listened for events and searched through the `date/time` column to find rows that matched the user input.
 
+<img src="https://github.com/SaltireSequence/javascript-challenge/blob/master/JavaScript%20Challenge/UFO-level-1/static/images/ufo-level-1-screenshot.jpg" alt="UFO Level 1 Website Image">
+
 ### UFO Level 2: Multiple Search Categories
 
 * The same process as UFO Level 1, but used multiple dropdowns, to write JavaScript code so the user could set multiple filters and search for UFO sightings using the following criteria based on the table columns:
@@ -47,6 +49,8 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
   3. `state`
   4. `country`
   5. `shape`
+
+
 
 - - -
 
