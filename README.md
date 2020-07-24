@@ -34,7 +34,7 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table to my web page and then adds new rows of data for each UFO sighting.
 
-  * The table contained the same column names, as the keys in the [`data.js`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/data.js) - `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
+  * The table contained the same column names, as the keys in the [`data.js`](https://github.com/SaltireSequence/javascript-challenge/tree/master/JavaScript%20Challenge/UFO-level-2/data.js) - `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
 * Used a date form in my HTML document and wrote JavaScript code that listened for events and searched through the `date/time` column to find rows that matched the user input.
 
