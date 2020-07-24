@@ -1,7 +1,7 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Resources
-The following link to the various components of the project, which can be found in both [`UFO-level-1`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1) & [`UFO-level-2`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-2) dirs
+The following links to the various components of the project, which can be found in both [`UFO-level-1`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1) & [`UFO-level-2`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-2) directories.
 * [`Static Folder`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/static) - contains static resources, such as images.
 * [`index.html`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/index.html) - creating a basic HTML website, to show my results.
 * [`style.css`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/style.css) - a CSS stylesheet, for my HTML website.
