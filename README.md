@@ -50,7 +50,7 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
   4. `country`
   5. `shape`
 
-
+<img src="https://github.com/SaltireSequence/javascript-challenge/blob/master/JavaScript%20Challenge/UFO-level-1/static/images/ufo-level-2-screenshot.jpg" alt="UFO Level 1 Website Image">
 
 - - -
 
