@@ -1,4 +1,4 @@
-
+//function for build selectors
 function getUnique(value, index, self) {
     return self.indexOf(value) === index;
 }
@@ -16,12 +16,12 @@ var shapeSelector = d3.select('#shapeSelect');
 var stateSelector = d3.select('#stateSelect');
 var countrySelector = d3.select('#countrySelect');
 
-// initialzing search options
+//initialize select options for user
 var selectedCountry = ""
 var selectedState = ""
 var selectedShape = ""
 
-// search functions
+//create functions for select options
 function getCountryList(dataForTable){
     var allCountries = [];
     for(i=0; i<dataForTable.length; i++){
@@ -46,7 +46,7 @@ function getShapeList(dataForTable){
     return allShapes.filter(getUnique).sort();
 };
 
-// pagination variables initiated
+//papanation variable initiation
 var curPage = 0;
 var firstResult = 0;
 var lastResult = 50;
@@ -64,7 +64,7 @@ var thisLi = d3.select('#thisLi');
 var nextLi = d3.select('#nextLi');
 var lastLi = d3.select('#lastLi');
 
-//initial table generation
+//table rendering
 var table = d3.select('#dataTable');
 var dataColumns = ["datetime","city","state","country","shape","durationMinutes","comments"]
 
@@ -96,7 +96,7 @@ function renderTable(dataForTable) {
 
 renderTable(dataSet);
 
-// function for handling searches and selections
+//function for handling user selections and searches
 function clearTable(){
     table.selectAll("td").remove();
     table.selectAll("tr").remove();
@@ -172,7 +172,7 @@ function shapeChange(){
     renderTable(dataForTable);
 };
 
-// table filters, based on users selection choices
+//filter table data according to selections
 function setFilters(value, property){
     if (value == ""){
         dataForTable = dataSet;
@@ -184,7 +184,7 @@ function setFilters(value, property){
     };
 };
 
-//clear all parameters
+//clear all
 var clearButton = d3.select('#clearSelections');
 clearButton.on("click", clearAll);
 
@@ -201,7 +201,7 @@ function clearAll(){
     renderTable(dataForTable);
 };
 
-//function for dealing with pagination
+//handle pagination
 function paginationClick(){
     var paginationBtn = d3.event.target;
     if (paginationBtn.id == 'prevPage' || paginationBtn.id == 'thisPage' || paginationBtn.id == 'nextPage'){
