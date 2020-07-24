@@ -5,7 +5,7 @@ The following links to the various components of the project, which can be found
 * [`Static Folder`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/static) - contains static resources, such as images.
 * [`index.html`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/index.html) - creating a basic HTML page, to show my results.
 * [`style.css`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/style.css) - a CSS stylesheet, to theme my HTML website.
-* [`data.js`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/data.js) - contains the data (in JSON) for rendering in the table.
+* [`data.js`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/data.js) - contains the data (in JSON format) for rendering in the table.
 * [`app.js`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/app.js) - the main JavaScript code to run.
 
 ## Background
