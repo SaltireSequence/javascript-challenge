@@ -55,7 +55,9 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
 * [UFO Sighting Data](https://github.com/SaltireSequence/javascript-challenge/tree/master/JavaScript%20Challenge/UFO-level-2/data.js)
 
 - - -
+### Special thanks...
+Although the code in this project is my own, Triology Education Services provided this challenge, including the dataset shown above. My special thanks to Triology Education Services, for providing this challenge under license and allowing students, such as myself, to use these as a learning opportunity.
 
+- - -
 ### Copyright
-
 Trilogy Education Services © 2019. All Rights Reserved.
