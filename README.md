@@ -52,7 +52,7 @@ Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dy
 
 ### Dataset
 
-* [UFO Sighting Data](/JavaScript Challenge/UFO-level-1/data.js)
+* [UFO Sighting Data](https://github.com/SaltireSequence/javascript-challenge/tree/master/JavaScript%20Challenge/UFO-level-2/data.js)
 
 - - -
 
