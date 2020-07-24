@@ -10,7 +10,7 @@ The following links to the various components of the project, which can be found
 
 ## Background
 
-Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dynamically creates a table, based on the dataset provided (see: [`data.js`](https://github.com/SaltireSequence/javascript-challenge/blob/master/UFO-level-1/data.js)) and allows the user some functionality to search data within the table. I broke this challenge into two parts:<br><br><b>(i) UFO-level-1:</b> in this part, I create a code that dynamically renders a table, but with only the ability to search in the data, using a 'Search By Date' function, that uses the 'Date' column in the dataset.<br><b>(ii) UFO-level-2:</b> in this part, I set myself the challenge of creating multiple search functions, that allowed the user to search by multiple search categories including:
+Using JavaScript, HTML, CSS and D3.js, I wanted to write JavaScript code that dynamically creates a table, based on the dataset provided (see: [`data.js`](https://github.com/SaltireSequence/javascript-challenge/tree/master/JavaScript%20Challenge/UFO-level-2/data.js)) and allows the user some functionality to search data within the table. I broke this challenge into two parts:<br><br><b>(i) UFO-level-1:</b> in this part, I create a code that dynamically renders a table, but with only the ability to search in the data, using a 'Search By Date' function, that uses the 'Date' column in the dataset.<br><b>(ii) UFO-level-2:</b> in this part, I set myself the challenge of creating multiple search functions, that allowed the user to search by multiple search categories including:
 
 1. `date/time`
 2. `city`
